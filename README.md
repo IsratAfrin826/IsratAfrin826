@@ -1,10 +1,6 @@
 ### Hi there 👋, my name is Israt Arefin
 #### 💥Love to learn  new skills.
 
-
-https://avatars.githubusercontent.com/u/204350804?v=4
-
-
 👩‍🎓 I am a student in Computer Science & Engineering at Port City International University.
 💥I have a deep passion for Software Development & Web Development.
 
