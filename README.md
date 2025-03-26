@@ -6,7 +6,7 @@
 
 
 ## 🌏 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsratAfrin826)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ )
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IsratAfrin826)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Israt )
 
 ## ⌨️ Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -24,8 +24,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsratAfrin826&show_icons=true) 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Israt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsratAfrin826)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
