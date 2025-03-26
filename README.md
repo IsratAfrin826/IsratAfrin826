@@ -16,6 +16,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
+# 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsratAfrin826&show_icons=true) 
 
 
