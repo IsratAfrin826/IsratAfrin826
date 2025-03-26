@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is Israt Arefin
 ### 💥Love to learn  new skills.
 👩‍🎓 I am a B.Sc student in Computer Science & Engineering at Port City International University.
+
 💡I have a deep passion for Software Development & Web Development.
 
 
@@ -18,15 +19,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsratAfrin826&show_icons=true) 
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsratAfrin826)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsratAfrin826&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/IsratAfrin826)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=IsratAfrin826)  
-
-
 
 
 
