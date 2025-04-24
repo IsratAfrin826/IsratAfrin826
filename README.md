@@ -3,7 +3,7 @@
 ### 💥Love to learn  new skills.
 👩‍🎓 I am a B.Sc student in Computer Science & Engineering at Port City International University.
 
-💡I have a deep passion for Software & Web Development.
+💡I have a deep passion for problem solving & Software Development.
 
 # ⌨️ Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
