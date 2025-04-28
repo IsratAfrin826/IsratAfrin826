@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Israt Arefin
+# Assalamulaikum, my name is Israt Arefin
 # 💫 About Me:
 ### 💥Love to learn  new skills.
 👩‍🎓 I am a B.Sc student in Computer Science & Engineering at Port City International University.
