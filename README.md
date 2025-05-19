@@ -1,11 +1,11 @@
-# 🧕Assalamualaikum, my name is Israt Arefin
-# 💫 About Me:
+# 🧕 Assalamualaikum, my name is Israt Arefin
+## 💫 About Me:
 ### 💥Love to learn  new skills.
 👩‍🎓 I am a B.Sc student in Computer Science & Engineering at Port City International University.
 
 💡I have a deep passion for problem solving & Software Development.
 
-# 💡Start Problem Solving On
+# 🧠 Start Problem Solving On
 <p align="left">
   <a href="https://www.hackerrank.com/profile/israt_arefin" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
