@@ -7,7 +7,7 @@ _______________
 
 💥Love to learn  new skills.
 
-👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University**.
+👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University** Chattogram ,Bangladesh.
 
 💡I have a deep passion for **problem solving & Software Development**.
 
