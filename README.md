@@ -13,7 +13,8 @@
   </a>
 </p>
 
-**✨ Earned golden badges & five star on HackerRank**
+<b><span style="color:blue;">✨ Earned golden badges & five star on HackerRank</span></b>
+
 
 
 ## ⌨️ Tech Stack:
