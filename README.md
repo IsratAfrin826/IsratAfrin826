@@ -22,7 +22,7 @@ _________
   </a>
 </p>
 
-**✨ Earned golden badges & five star on HackerRank**
+✨ Earned **golden badges** & **five star** on **HackerRank**
 
 __________
 
