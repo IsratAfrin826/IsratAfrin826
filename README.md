@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
-✨ **Earned golden badges & five star on HackerRank**
+**✨ Earned golden badges & five star on HackerRank**
 
 
 ## ⌨️ Tech Stack:
