@@ -16,13 +16,13 @@ _________
 
 
 ## 🧠 Start Problem Solving On
-💡Focusing on **Problem Solving**
 <p align="left">
   <a href="https://www.hackerrank.com/profile/israt_arefin" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
 
+💡Focusing on **Problem Solving**
 ✨ Earned **golden badges** & **five star** on **HackerRank**
 
 __________
