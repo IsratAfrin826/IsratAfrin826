@@ -22,7 +22,8 @@ _________
   </a>
 </p>
 
-💡Focusing on **Problem Solving**
+✨ Focusing on **Problem Solving**
+
 ✨ Earned **golden badges** & **five star** on **HackerRank**
 
 __________
