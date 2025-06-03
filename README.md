@@ -24,7 +24,7 @@ _________
 
 ✨ Focusing on **Problem Solving**
 
-✨ Earned **golden badges** & **five star** on **HackerRank**
+
 
 __________
 
