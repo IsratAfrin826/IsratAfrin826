@@ -9,7 +9,7 @@ _______________
 
 👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University** , **Chattogram** , **Bangladesh**.
 
-💡I have a deep passion for **problem solving , Data Analysis & Software Development**.
+💡I have a deep passion for **problem solving , Data Analysis  &  Software Development**.
 
 
 _________
