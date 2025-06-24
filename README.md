@@ -9,7 +9,9 @@ _______________
 
 💥I'm always eager to learn and grow professionally.
 
-💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through data analysis, and building efficient software applications.**
+💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through data analysis, and building efficient**  
+ 
+  **software applications.**
 
 
 
