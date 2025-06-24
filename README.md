@@ -7,12 +7,11 @@ _______________
 
 👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University** , **Chattogram** , **Bangladesh**.
 
-💥I'm always eager to learn and grow professionally.
+💥I'm always eager to **learn and grow professionally.**
 
 💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through data analysis, and building efficient**  
  
-  
-  **software applications.**
+   **software applications.**
 
 
 
