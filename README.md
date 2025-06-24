@@ -11,6 +11,7 @@ _______________
 
 💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through data analysis, and building efficient**  
  
+  
   **software applications.**
 
 
