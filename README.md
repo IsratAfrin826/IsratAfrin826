@@ -5,11 +5,13 @@ _______________
 
 ## 💫 About Me:
 
-💥Love to learn  new skills.
-
 👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University** , **Chattogram** , **Bangladesh**.
 
-💡I have a deep passion for **problem solving , Data Analysis  &  Software Development**.
+💥I'm always eager to learn and grow professionally.
+
+💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through data analysis, and building efficient software applications.**
+
+
 
 
 _________
