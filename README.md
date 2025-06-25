@@ -25,6 +25,9 @@ _________
   <a href="https://www.hackerrank.com/profile/israt_arefin" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
+ <a href="https://www.codechef.com/users/israt_arefin" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 ✨ Focusing on **Problem Solving**
