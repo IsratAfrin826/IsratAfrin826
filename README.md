@@ -1,4 +1,4 @@
-# 🧕 Assalamualaikum, my name is Israt Arefin
+# 🧕 Assalamualaikum, I'm Israt Arefin
 
 _______________
 
