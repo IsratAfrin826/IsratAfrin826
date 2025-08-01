@@ -13,7 +13,7 @@ _______________
  
    **software applications.**
 
- 👉 "I am currently learning **Data Science and Machine Learning.**"
+ 👉 "I am currently learning **Data Science and Machine Learning with Python.**"
 
 
 
