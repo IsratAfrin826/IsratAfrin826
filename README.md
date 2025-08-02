@@ -9,7 +9,7 @@ _______________
 
 💥I'm always eager to **learn and grow professionally.**
 
-💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through datefficiea analysis.**  
+💡"Passionate about **technology, data science, and machine learning — I enjoy solving real-world problems and uncovering insights through efficient data analysis.**"
  
 👉 "I am currently learning **Data Science and Machine Learning with Python.**"
 
