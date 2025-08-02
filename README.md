@@ -9,11 +9,9 @@ _______________
 
 💥I'm always eager to **learn and grow professionally.**
 
-💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through data analysis, and building efficient**  
+💡Driven by a deep interest in technology, I enjoy **solving problems , uncovering insights through datefficiea analysis.**  
  
-   **software applications.**
-
- 👉 "I am currently learning **Data Science and Machine Learning with Python.**"
+👉 "I am currently learning **Data Science and Machine Learning with Python.**"
 
 
 
