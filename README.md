@@ -7,11 +7,11 @@ _______________
 
 👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University** , **Chattogram** , **Bangladesh**.
 
-💥I'm always eager to **learn and grow professionally.**
+💥 I'm always eager to **learn and grow professionally.**
 
-💡"Passionate about **technology, data science, and machine learning — I enjoy solving real-world problems and uncovering insights through efficient data analysis.**"
+💡 Passionate about **technology, data science, and machine learning — I enjoy solving real-world problems and uncovering insights through efficient data analysis.**
  
-👉 "I am currently learning **Data Science and Machine Learning with Python.**"
+👉 I am currently learning **Data Science and Machine Learning with Python.**
 
 
 
