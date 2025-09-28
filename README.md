@@ -19,7 +19,7 @@ _______________
 _________
 
 
-## 🧠  Problem Solving 
+## 🧠  Problem Solving
 
 <p align="left">
  
