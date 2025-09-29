@@ -31,10 +31,6 @@ _________
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
   
-  <a href="https://codeforces.com/profile/Israt Arefin826" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
-  
 </p>
 
 ✨ Focusing on **Problem Solving**
