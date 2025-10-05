@@ -5,7 +5,7 @@ _______________
 
 ## 💫 About Me:
 
-👩‍🎓 I am a **B.Sc student** in **Computer Science & Engineering (CSE)** at **Port City International University** , **Chattogram** , **Bangladesh**.
+👩‍🎓 I am a **B.Sc. student in Computer Science and Engineering (CSE)** at **Port City International University**, Chattogram, Bangladesh.
 
 💥 I'm always eager to **learn and grow professionally.**
 
