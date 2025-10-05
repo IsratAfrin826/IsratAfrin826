@@ -9,7 +9,7 @@ _______________
 
 💥 I’m highly motivated and always eager to **learn, grow, and explore new technologies**.
 
-💡 Passionate about **technology, data science, and machine learning — I enjoy solving real-world problems and uncovering insights through efficient data analysis.**
+💡 Passionate about **data science, machine learning, and technology**, I enjoy solving real-world problems and discovering meaningful insights through **data-driven analysis**.
  
 👉 I am currently learning **Data Science and Machine Learning with Python.**
 
