@@ -1,5 +1,4 @@
-# 🧕 Assalamualaikum, I'm Israt Arefin 
-
+# 🧕 Assalamualaikum, I'm Israt Arefin
 ---
 
 ## 💫 About Me  
