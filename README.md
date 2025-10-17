@@ -1,19 +1,13 @@
-# 🧕 Assalamualaikum, I'm Israt Arefin
----
+# 🧕 Assalamualaikum! I'm Israt Arefin
+✨ **Where curiosity meets code, and ideas turn into solutions.**  
+👩‍🎓 B.Sc. student in **Computer Science & Engineering (CSE)** at **Port City International University**, Chattogram, Bangladesh.  
 
-## 💫 About Me  
-
-👩‍🎓 I’m a **B.Sc. student in Computer Science and Engineering (CSE)** at **Port City International University**, Chattogram, Bangladesh.  
-
-💥 A **motivated and enthusiastic learner**, passionate about exploring **Data Science, Machine Learning, and emerging technologies**.  
-
-💡 I enjoy **solving real-world problems** and uncovering valuable insights through **data-driven solutions**.  
-
-🚀 Currently, I’m enhancing my skills in **Data Science and Machine Learning with Python**.  
+💡 Passionate about **Data Science, Machine Learning, and emerging technologies**, I thrive on **solving real-world problems** and **uncovering insights through data**.  
+🚀 Currently sharpening my skills in **Python, ML algorithms, and competitive programming** to turn concepts into impactful solutions.  
 
 ---
 
-## 🧠 Problem Solving  
+## 🧠 Problem Solving
 
 <p align="center">  
   <a href="https://www.codechef.com/users/israt_arefin" target="_blank">  
@@ -24,14 +18,13 @@
   </a>  
 </p>  
 
-✨ Passionate about **competitive programming** and continuously improving **logical thinking** and **algorithmic efficiency** through platforms like **CodeChef** and **HackerRank**.  
+✨ Driven by **competitive programming** challenges, I continuously improve **logical thinking** and **algorithmic efficiency**.
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
 <p align="center">
-  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
@@ -48,11 +41,7 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/seaborn-4B8BBE.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/ANN-6A0DAD?style=for-the-badge&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/ML%20Algorithms-F9A825?style=for-the-badge&logo=algorithmia&logoColor=white">
-
 </p>
 
 ---
@@ -68,18 +57,12 @@
 
 ## ✨ Quick Summary  
 
-> 💫 A curious mind exploring the world of **data and code**.  
-> 💻 Passionate about continuous learning, creative problem solving, and building impactful solutions.  
-> 🌱 Always learning, always growing — one line of code at a time. 🚀  
-
----
+> 💫 Curious mind exploring the world of **data and code**.  
+> 💻 Passionate about **learning, problem solving, and building impactful solutions**.  
+> 🌱 Growing every day — one line of code at a time. 🚀  
 
 <p align="center">
   <i>“Code. Learn. Evolve.”</i>  
 </p>
-
-
-
-
 
 
