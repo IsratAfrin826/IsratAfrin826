@@ -33,7 +33,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p align="left">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,6 +52,9 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-4B8BBE.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/ML%20Algorithms-F9A825?style=for-the-badge&logo=algorithmia&logoColor=white">
+<img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/ANN-6A0DAD?style=for-the-badge&logo=keras&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white">
 
 </p>
 
