@@ -34,7 +34,6 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
@@ -55,7 +54,6 @@
 <img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/ANN-6A0DAD?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white">
-
 </p>
 
 ---
